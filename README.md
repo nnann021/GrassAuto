@@ -1,15 +1,15 @@
-# BOT GRASS AUTO FARMING
+BOT GRASS AUTO FARMING
 
-# Register
-- https://app.getgrass.io/register/?referralCode=AYtNN0N1D0pzSCc
+Register
+https://app.getgrass.io/register/
 
-# Command
-- git clone https://github.com/AirDropFamilyIDN/GrassAutoFarming.git
-- cd GrassAutoFarming
-- pip install -r requirements.txt
-- python run_http.py
-- python run_socks4.py
-- python run_socks5.py
+git clone https://github.com/nnann021/GrassAuto.git
+cd GrassAutoFarming
+pip install -r requirements.txt
+screen -S Grass
+python3 run_http.py
+python3 run_socks4.py
+python3 run_socks5.py
 
-# get USERID
-- Press F12 => Console => ketik allow pasting => trus paste localStorage.getItem('userId')
+get USERID
+Press F12 => Console => ketik allow pasting => trus paste localStorage.getItem('userId')
